@@ -1,21 +1,140 @@
 full_name,rating,total_ratings,business_category,address,phone,website,latitude,longitude
-Javier Simorra Barcelona- Tienda de ropa para mujer,"4,5",(15),Tienda de ropa de mujer,,,,41.395245,2.142289
-Trucco,"4,4",(32),Tienda de ropa de mujer,,,,41.3947416,2.1590516
-Pimkie,"3,9",(363),Tienda de ropa de mujer,,,,41.3861445,2.172704
-Dr. Bloom,"3,8",(5),Tienda de ropa de mujer,,,,41.3894824,2.1347753
-Antonieta,"4,5",(51),Tienda de ropa de mujer,,,,41.4030417,2.1591722
-Yerse Illa Diagonal Concept Store,"4,1",(28),Tienda de ropa de mujer,,,,41.3895068,2.1350037
-Glam,"4,0",(1),Tienda de ropa de mujer,,,,41.3944341,2.1421906
-Etxart Panno,"4,4",(7),Tienda de ropa de mujer,,,,41.3896117,2.1355075
-BROWNIE,"4,1",(54),Tienda de ropa de mujer,,,,41.3894645,2.1348885
-GreenLifeStyle EcoFashion - Tienda de Ropa Ecológica,"4,4",(28),Tienda de ropa de mujer,,,,41.4018735,2.1572941
-Pimkie,"3,5",(4),Tienda de ropa de mujer,,,,41.383932,2.173444
-Mariona,"4,7",(12),Tienda de ropa de mujer,,,,41.3939584,2.1262507
-Mariona,"4,9",(9),Tienda de ropa de mujer,,,,41.3945594,2.1362916
-SURKANA,"4,1",(46),Tienda de ropa de mujer,,,,41.3994251,2.1561326
-INSTINTO,"4,5",(25),Tienda de ropa de mujer,,,,41.4027175,2.1530234
-MARIA COLOMO,"5,0",(3),Tienda de ropa de mujer,,,,41.3935727,2.1385615
-Shikara,,,Tienda de ropa de mujer,,,,41.3960929,2.1432747
-Ropa Original Mujer - Unique Collection Barcelona,"5,0",(12),Tienda de ropa de mujer,,,,41.380604,2.145293
-NKN Nekane,"4,0",(29),Tienda de ropa de mujer,,,,41.393955,2.1592116
-"Dalatalla, tallas grandes . Curvy moda da la talla sants.","4,3",(101),Tienda de ropa de mujer,,,,41.3753742,2.1330367
+eseOese,"4,1",(41),Tienda de ropa de mujer,"L'Illa Diagonal, local 2.10, Avinguda Diagonal, 557, 08029 Barcelona",934 10 96 56,eseoese.com,41.3896651,2.1351002
+BROWNIE,"4,1",(54),Tienda de ropa de mujer,"Avinguda Diagonal, 577, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 10 90 78,browniespain.com,41.3894645,2.1348885
+Sfera,"3,9",(1.187),Tienda de ropa,"Avinguda Diagonal, 545, 08028 Barcelona
+Se encuentra en: L'illa Diagonal",934 94 17 58,sfera.com,41.3899539,2.1368162
+System Action,"3,6",(42),Tienda de ropa,"C.C L'illa, Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 10 18 74,systemaction.es,41.389891,2.136364
+Dr. Bloom,"3,8",(5),Tienda de ropa de mujer,"Avinguda Diagonal, 557, 215, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 19 61 52,drbloom.es,41.3894824,2.1347753
+Etxart Panno,"4,4",(7),Tienda de ropa de mujer,"C.C. L’Illa, Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",663 76 84 06,etxartpanno.com,41.3896117,2.1355075
+boboli,"4,1",(29),Tienda de ropa infantil,"Avinguda Diagonal, 557, Local 209, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",933 22 32 12,boboli.es,41.3897213,2.1350774
+Mariona,"4,9",(9),Tienda de ropa de mujer,"Carrer de les Escoles Pies, 3, 5, 08017 Barcelona",932 01 75 69,mariona.es,41.3945594,2.1362916
+Yerse Illa Diagonal Concept Store,"4,1",(28),Tienda de ropa de mujer,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",933 21 06 35,yerse.com,41.3895068,2.1350037
+Oysho L'ILLA,"4,1",(260),Tienda de ropa de mujer,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 19 64 68,oysho.com,41.389638,2.1345189
+Scalpers,"4,1",(30),Tienda de ropa,"L'Illa Diagonal. Avda. Diagonal nº 557, 08029 Barcelona",934 19 26 68,scalperscompany.com,41.3897856,2.1356271
+Cortefiel,"3,9",(431),Tienda de ropa de hombre,"C.C. LA L'ILLA, Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",914 30 32 95,cortefiel.com,41.3897159,2.134884
+Uterqüe,"4,2",(72),Tienda de ropa de mujer,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 10 24 65,uterque.com,41.3897786,2.1353268
+JOTT,"3,4",(10),Tienda de ropa,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 94 44 49,justoverthetop.com,41.3898332,2.1357571
+Javier Simorra Barcelona- Tienda de ropa para mujer,"4,5",(15),Tienda de ropa de mujer,"Carrer del Tenor Viñas, 7, 08021 Barcelona",932 01 21 06,,41.395245,2.142289
+MARIA COLOMO,"5,0",(3),Tienda de ropa de mujer,"Carrer de Ganduxer, 26, 08021 Barcelona",934 14 55 62,,41.3935727,2.1385615
+Ecoalf,"5,0",(4),Tienda de ropa,"Avinguda Diagonal 557, CC L'illa Diagonal, local 2, 14, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",935 14 05 37,ecoalf.com,41.3901548,2.1355654
+IKKS Women,"3,5",(59),Tienda de ropa,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 10 44 46,stores.ikks.com,41.3896982,2.1356093
+Ebb Wear,"4,7",(3),Tienda de ropa de deportes,"Carrer de Ricardo Villa, 7, 08017 Barcelona",932 53 17 05,ebbwearbcn.com,41.3930606,2.1317902
+Zara,"4,0",(1.485),Tienda de ropa,"Centro Comercial L'illa Diagonal, Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 30 80 53,zara.com,41.3900055,2.1365019
+DAT Informática,"4,5",(4),Empresa de software,"Carrer Rocafort 39-43, ent. 1ª esc. der, 08015 Barcelona",902 94 50 23,datinformatica.com,41.3772818,2.1557843
+Nuria Roig,"4,3",(27),Tienda de ropa de mujer,"Avinguda Diagonal, 537, 08029 Barcelona",933 22 04 44,nuriaroig.com,41.390682,2.137944
+El Ganso,"3,9",(64),Tienda de ropa,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",938 32 40 01,elganso.com,41.389383,2.1338221
+Dockers,"3,8",(48),Tienda de ropa de hombre,"Avinguda Diagonal, 561, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",933 63 08 41,dockers.com,41.3897399,2.1357576
+Stradivarius,"3,9",(339),Tienda de ropa,"Avenida DIAGONAL, L'ILLA DIAGONAL, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",,stradivarius.com,41.3892159,2.1344754
+Mi&Co,"4,1",(47),Tienda de ropa,"Avinguda Diagonal, 571, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",931 17 74 82,miandco.es,41.3891968,2.1340439
+Marianne,"4,3",(6),Tienda de ropa de mujer,"Carrer de Déu i Mata, 154, 08029 Barcelona",635 55 17 08,mariannetienda.com,41.3905658,2.1397687
+Takezo By Ana Angulo,"4,3",(18),Tienda de ropa,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",,,41.3896776,2.1351648
+INSIDE,"4,0",(82),Tienda de ropa,"Carrer Gran de Gràcia, 99, 08012 Barcelona",932 17 15 71,inside-shops.com,41.400952,2.154017
+Intimissimi,"3,9",(49),Tienda de ropa,"Calle Diagonal, 549, Local 2 57 B/2 58, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 10 49 83,intimissimi.com,41.3898851,2.1359508
+Desigual,"4,0",(53),Tienda de ropa,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 10 25 40,,41.3891539,2.1342348
+Brownie Santaló,"4,4",(43),Tienda de ropa de mujer,"Carrer de Santaló, 43, 08021 Barcelona",932 00 47 90,browniespain.com,41.396082,2.1450949
+H&M,"3,9",(1.177),Tienda de ropa,"Avinguda Diagonal, 579, 08029 Barcelona",901 12 00 84,hm.com,41.3891328,2.1325361
+Soul,"3,7",(17),Tienda de ropa de mujer,"Carrer de la Canuda, 13, 08002 Barcelona",933 02 66 75,soul-barcelona.com,41.3847494,2.1715624
+LIU•JO UOMO Barcelona - CC L’Illa,"3,7",(3),Tienda de ropa,"Avinguda Diagonal, 551, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 60 91 22,liujo.com,41.3901183,2.1364408
+Sfera,"3,9",(1.187),Tienda de ropa,"Avinguda Diagonal, 545, 08028 Barcelona
+Se encuentra en: L'illa Diagonal",934 94 17 58,sfera.com,41.3900913,2.1370738
+Al agua patos,"3,5",(8),Tienda de ropa,"Centro Comercial L'Illa, Avinguda Diagonal, 557, Local 2.56, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",937 07 33 99,alaguapatos.es,41.3898466,2.1358197
+Pedro del Hierro,"4,1",(76),Tienda de ropa,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 19 58 25,pedrodelhierro.com,41.3896363,2.1347176
+QK BCN,"4,9",(8),Tienda de ropa,"Carrer de Calvet, 29, 08021 Barcelona",932 09 55 18,qkbcn.com,41.394796,2.1432131
+Believe Athletics,"5,0",(5),Tienda de ropa de deportes,"Ganduxer 5-15. Entr. Despacho 4, 08021 Barcelona",660 37 37 79,believeathletics.com,41.392192,2.138641
+Antonieta,"4,5",(51),Tienda de ropa de mujer,"Carrer de Torrijos, 15, 08012 Barcelona",934 15 25 43,antonietabcn.com,41.4030417,2.1591722
+DAT Informática,"4,5",(4),Empresa de software,"Carrer Rocafort 39-43, ent. 1ª esc. der, 08015 Barcelona",902 94 50 23,datinformatica.com,41.3772818,2.1557843
+Primark,"3,8",(5.819),Tienda de ropa,"Centro comercial L'Illa, Carrer de Déu i Mata, 69-99, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 44 95 11,stores.primark.com,41.3890591,2.1362111
+OLIVIA H CASHMERE,,,Tienda de ropa de mujer,"Carrer de Ganduxer, 8, 08021 Barcelona",934 14 08 59,facebook.com,41.392255,2.1391455
+Calzedonia,"3,8",(75),Tienda de ropa,"Calle Diagonal, 549, Local 206, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 44 00 52,calzedonia.com,41.3898851,2.1359508
+FUREST,"3,6",(21),Tienda de ropa de hombre,"Avinguda Diagonal, 609, 08028 Barcelona
+Se encuentra en: Pedralbes Centre",934 19 40 06,furest.com,41.3882941,2.1289717
+Glam,"4,0",(1),Tienda de ropa de mujer,"Carrer del Tenor Viñas, 4, 6, 08021 Barcelona",932 09 51 14,glambcn.com,41.3944341,2.1421906
+Avirex,"4,5",(2),Tienda de ropa de hombre,"Pau Casals, 5, 08021 Barcelona",934 14 66 71,avirex.it,41.3932188,2.1430326
+Sfera,"3,8",(20),Tienda de ropa,"Avinguda Diagonal, 471, Planta, 08036 Barcelona
+Se encuentra en: El Corte Inglés Francesc Macià",934 93 48 00,sfera.com,41.392579,2.1464551
+IA MASSANA BCN,"3,7",(9),Tienda de ropa,"Avinguda Diagonal, 626, 08021 Barcelona",932 00 99 17,,41.3918853,2.1395321
+Levi's,"4,1",(119),Tienda de ropa,"Avinguda Diagonal, 557, local 3.21, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 94 24 78,levi.com,41.38938175,2.1347714
+Watoto Barcelona,"5,0",(6),Tienda de ropa para jóvenes,"Carrer Major de Sarrià, 6, 08017 Barcelona",930 11 29 09,,41.396019,2.1252995
+Brighty&co,"4,4",(22),Tienda de ropa de mujer,"Carrer de Calvet, 11, 08021 Barcelona",934 88 49 37,brightyandco.com,41.393818,2.1444799
+BIMBA Y LOLA,"3,6",(105),Tienda de ropa,"Avinguda Diagonal, 545-577, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 10 11 18,bimbaylola.com,41.3894327,2.1347471
+La Chemise Blanche,"4,8",(4),Tienda de ropa de hombre,"Carrer de Santa Fe de Nou Mèxic, 3, 08017 Barcelona",932 09 54 51,,41.3940893,2.1353957
+Jofré,"4,8",(5),Tienda de ropa de hombre,"Carrer de Bori i Fontestà, 6, 08021 Barcelona",932 09 52 81,shop.jofre.eu,41.393511,2.140072
+Petit Oh! Galvany,"4,6",(11),Tienda de ropa para bebés,"Carrer de Marià Cubí, 191, 08021 Barcelona",932 00 87 89,petitoh.com,41.3951315,2.1444662
+Nícoli,"4,1",(38),Tienda de ropa infantil,"Carrer d'Amigó, 51, 08021 Barcelona",934 14 67 35,nicolishop.com,41.3958464,2.1434803
+Boutique Clo,,,Tienda de ropa de vestir,"Carrer de Calvet, 3, 08021 Barcelona",932 00 61 67,,41.3934046,2.1449905
+System Action,"3,5",(16),Tienda de ropa,"Carrer de Sants, 91, 08014 Barcelona",933 31 01 96,systemaction.es,41.3752837,2.1360493
+Shon Mott Barcelona,"4,3",(16),Tienda de ropa,"Carrer d'Amigó, 50, 08021 Barcelona",934 61 63 23,shonmott.com,41.3960277,2.1436892
+INSIDE,"3,8",(27),Tienda de ropa,"Carrer de Sants, 128, 08028 Barcelona",936 63 86 96,inside-shops.com,41.3755303,2.134448
+DAT Informática,"4,5",(4),Empresa de software,"Carrer Rocafort 39-43, ent. 1ª esc. der, 08015 Barcelona",902 94 50 23,datinformatica.com,41.3772818,2.1557843
+Violeta by MANGO,"3,9",(99),Tienda de ropa de mujer,"Avinguda Diagonal, 545 577, local 2.21, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 94 15 47,shop.mango.com,41.3892118,2.1343349
+Mulaya,"4,0",(353),Tienda de ropa,"Carrer de Pelai, 20, 08001 Barcelona",933 42 56 44,mulaya.com,41.3856957,2.1662971
+Trucco,"4,4",(32),Tienda de ropa de mujer,"Carrer del Rosselló, 243, 08008 Barcelona",932 17 19 17,truccoshop.com,41.3947416,2.1590516
++D CONTI CENTRE,"4,1",(79),Tienda de ropa de deportes,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",933 21 92 33,econti.com,41.3893824,2.1345565
+System Action,"3,5",(6),Tienda de ropa,"Carrer de Calvet, 2, 08021 Barcelona",932 69 52 59,systemaction.es,41.3934591,2.1452636
+Coquette Madrazo,"4,0",(7),Tienda de ropa de mujer,"Carrer dels Madrazo, 153, 08021 Barcelona",934 14 51 06,coquettebcn.com,41.3957136,2.1430804
+Pepe Jeans,"3,8",(76),Tienda de ropa,"Avinguda Diagonal, 557, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 19 34 42,tiendas.pepejeans.com,41.3891004,2.1339783
+Ana Angulo Essentials,"4,8",(22),Tienda de ropa de mujer,"Carrer de Santaló, 43, 08021 Barcelona",937 68 89 41,anaangulo.com,41.396082,2.1450949
+System Action,"4,3",(49),Tienda de ropa,"Rambla de Catalunya, 108, 08008 Barcelona",932 15 09 56,systemaction.es,41.394286,2.1593296
+KIMOD,"4,3",(19),Tienda de ropa de mujer,"Av. de Josep Tarradellas, 126, 08029 Barcelona",931 81 43 52,,41.3910931,2.1441026
+Paramamá - Illa Diagonal,"4,4",(5),Tienda de artículos premamá y de bebé,"CC Illa Diagonal Avenida Diagonal, 557, local 3.06, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",934 19 25 36,paramama.es,41.3898829,2.1357695
+Ribbon: Ropa de bebés y de mamás,,,Tienda de ropa infantil,"Passeig de Manuel Girona, 40, 08034 Barcelona",932 05 05 68,instagram.com,41.3910154,2.1241787
+Nuria Roig,"4,7",(9),Tienda de ropa de mujer,"Carrer Major de Sarrià, 7, 08017 Barcelona",932 52 24 95,nuriaroig.com,41.396159,2.124865
+E'vero - Vestits de Festa i Núvia,"4,7",(3),Tienda de ropa,"Carrer de Déu i Mata, 38, 08014 Barcelona",629 83 94 37,everonuvia.com,41.387196,2.133539
+BUFF® L'Illa Diagonal,"5,0",(5),Tienda de ropa,"cerca de Party Fiesta, Avinguda Diagonal, 557, Planta -1, 08029 Barcelona
+Se encuentra en: L'illa Diagonal",600 06 26 02,buff.com,41.3891502,2.133823
+CANADA HOUSE | Calvet,"3,5",(10),Tienda de ropa infantil,"Carrer de Calvet, 3, 08021 Barcelona",930 16 41 06,canadahouseonline.com,41.3934046,2.1449905
+MariaRoch Store,"4,6",(20),Tienda de ropa para jóvenes,"Carrer de Laforja, 120, 08021 Barcelona",932 68 96 55,mariaroch.com,41.395891,2.1442436
+"Tienda bisutería, ropa y complementos Tujuru","5,0",(2),Tienda de ropa,"Carrer de Ricardo Calvo, 15, 08022 Barcelona",600 44 81 07,tujuru.com,41.4026809,2.132906
+OYSHO,"4,3",(72),Tienda de ropa de mujer,"Avinguda Diagonal, 596, 08021 Barcelona",932 80 79 54,oysho.com,41.3934252,2.1460001
+DAT Informática,"4,5",(4),Empresa de software,"Carrer Rocafort 39-43, ent. 1ª esc. der, 08015 Barcelona",902 94 50 23,datinformatica.com,41.3772818,2.1557843
+Melé,"4,8",(4),Tienda de ropa de mujer,"Travessera de Gràcia, 97, 08006 Barcelona",932 37 23 88,mele.cat,41.3981006,2.1524635
+By Biombo,"4,0",(79),Tienda de ropa de vestir,"Carrer de Laforja, 94, 08021 Barcelona",932 00 30 13,bybiombo.com,41.3966689,2.1455752
+Tienda Kiabi PASSEIG DE GRÀCIA,"4,1",(1.084),Tienda de ropa,"KIABI España KSCE, S.A, Passeig de Gràcia, 9, 08007 Barcelona",673 80 34 33,kiabi.es,41.388601,2.1687081
+Ambmimo,"5,0",(46),Tienda de ropa para bebés,"Carrer d'Arimon, 1, 08022 Barcelona",932 53 06 17,ambmimo.com,41.405,2.137568
+CANADA HOUSE | Sant Gervasi,"4,8",(6),Tienda de ropa infantil,"Carrer de Vilarós, 1, 08022 Barcelona",934 18 72 11,canadahouseonline.com,41.4055203,2.1387454
+La Croixé,"4,1",(69),Tienda de ropa de vestir,"Carrer dels Madrazo, 119, 08021 Barcelona",937 12 74 13,lacroixe.com,41.3975037,2.1456493
+El Armario de Mimi,"4,9",,,"Carrer de Sants, 391, 08028 Barcelona",669 97 82 47,elarmariodemimi.es,41.3755516,2.1243147
+Neck and Neck,"3,8",(12),Tienda de ropa infantil,"Avinguda Diagonal, 617, 08028 Barcelona",934 94 85 28,neckandneck.com,41.3878013,2.1280387
+Nanos,"4,5",(2),Tienda de ropa infantil,"Carrer del Mestre Nicolau, 17, 08021 Barcelona",932 00 09 18,nanos.es,41.394086,2.1428471
+Isla de Plata - Moda sostenible y ropa ecológica en Barcelona,"5,0",(8),Tienda de ropa de mujer,"Carrer de Marià Cubí, 17, 08006 Barcelona",931 16 74 65,isladeplata.com,41.398719,2.15053
+UNIQLO,"4,1",(4.977),Tienda de ropa,"Passeig de Gràcia, 18, 08007 Barcelona",936 28 36 00,uniqlo.com,41.3899,2.1684
+Reset Store,"3,3",(3),Tienda de ropa,"Via Augusta, 126, 08006 Barcelona",932 09 76 67,resetstoreonline.com,41.400853,2.1460821
+ELS BARRUFETS Ropa Bebe e Infantil,"5,0",(2),Tienda de ropa infantil,"CAPITA ARENAS N.º 66, 08034 Barcelona",933 39 95 60,barrufets.es,41.3940898,2.1247764
+Masuniformes,"4,2",(488),Tienda de ropa de trabajo,"Carrer de Sepúlveda, 109, 08015 Barcelona",934 25 53 93,masuniformes.com,41.380627,2.1587616
+Donna,"4,3",(6),Tienda de ropa,"Carrer de Can Bruixa, 26, 08014 Barcelona",934 90 74 11,gafarelo.com,41.3839786,2.1324571
+Scalpers,"4,1",(30),Tienda de ropa,"L'Illa Diagonal. Avda. Diagonal nº 557, 08029 Barcelona",934 19 26 68,scalperscompany.com,41.38861515,2.13185995
+Normandie Baby,"4,1",(7),Tienda de artículos premamá y de bebé,"Plaça de Sant Gregori Taumaturg, 6, 08021 Barcelona",932 09 14 11,,41.3943183,2.1375424
+NECK & NECK,"4,0",(1),Tienda de ropa para bebés,"Carrer de Manuel de Falla, 26, 08034 Barcelona",932 03 59 49,neckandneck.com,41.3937906,2.125663
+Mangas bcn camisas a medida,"4,6",(11),Tienda de ropa de hombre,"Av. de Josep Tarradellas, 153, 08029 Barcelona",934 15 24 53,,41.391534,2.1436645
+TCN Mestre Nicolau,"4,1",(19),Tienda de ropa de mujer,"Carrer del Mestre Nicolau, 12, 08021 Barcelona",674 33 91 43,tcnbarcelona.com,41.3939208,2.1430304
